@@ -6,7 +6,7 @@ Shipping robust AI-powered applications from concept to production. Passionate a
 ## 🌐 Connect With Me
 [![Email](https://img.shields.io/badge/📧_ayaankhan0440@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ayaankhan0440@gmail.com)
 [![Instagram](https://img.shields.io/badge/👨💻_@ayaankhan_10-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ayaankhan_10)
-[![Mastodon](https://img.shields.io/badge/🧠_@Ayaan_Khan-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayaan Khan)
+
 
 ## 🛠️ Core Technical Competencies
 
