@@ -1,58 +1,50 @@
-# 💫 About Me
-🚀 I'm currently working as an AI/ML Developer — but that's just the surface. My journey spans across full-stack development, custom chatbot architectures, and cutting-edge computer vision systems.
+# 💫 AI/ML Developer & Full-Stack Engineer
 
-💡 My roots are deep in Python and Machine Learning, but I’ve gone full-stack — from HTML, CSS, JS, and PHP to Flask, React, and Next.js. Whether it’s databases like MySQL, PostgreSQL, SQLite, or MongoDB, or tools like FastAPI and OpenCV — I build things end-to-end and always aim to push the limits of what’s possible.
-
----
+**Python Specialist** | **End-to-End Solution Architect** | **Innovation-Driven Developer**  
+Shipping robust AI-powered applications from concept to production. Passionate about computer vision, custom chatbots, and pushing technical boundaries.
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayaankhan_10)  
-📬 [ayaankhan0440@gmail.com](mailto:ayaankhan0440@gmail.com)
+[![Email](https://img.shields.io/badge/📧_ayaankhan0440@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ayaankhan0440@gmail.com)
+[![Instagram](https://img.shields.io/badge/👨💻_@ayaankhan_10-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ayaankhan_10)
+[![Mastodon](https://img.shields.io/badge/🧠_@Ayaan_Khan-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayaan Khan)
 
----
+## 🛠️ Core Technical Competencies
 
-## 💻 Tech Stack
+### 🔷 **AI/ML & Data Science**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?logo=opencv)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn)
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+### 🔷 **Full-Stack Development**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 
-**Databases & Tools:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🔷 **Data & Infrastructure**
+![Azure](https://img.shields.io/badge/Azure-Expert-0078D4?logo=microsoftazure)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-**AI/ML & Data:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🚀 Project Highlights
+- Built **custom chatbot architectures** with NLP integration
+- Developed **computer vision systems** for real-time analysis
+- Created **full-stack applications** with React frontends and Python backends
+- Deployed **scalable solutions** on cloud platforms
+- Optimized **ML models** for production environments
 
-**Version Control & Cloud:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuraiomo&theme=dark&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kuraiomo&theme=dark" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuraiomo&theme=dark&layout=compact&hide_border=true" />
+</p>
 
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kuraiomo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kuraiomo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuraiomo&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=kuraiomo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Built with love and caffeine -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=kuraiomo&label=Profile+Views&color=dc143c" />
+</div>
