@@ -20,14 +20,23 @@ Shipping robust AI-powered applications from concept to production. Passionate a
 ### 🔷 **Full-Stack Development**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 
 ### 🔷 **Data & Infrastructure**
 ![Azure](https://img.shields.io/badge/Azure-Expert-0078D4?logo=microsoftazure)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+###  🔷 **Version Control & Cloud**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 
 ## 🚀 Project Highlights
 - Built **custom chatbot architectures** with NLP integration
